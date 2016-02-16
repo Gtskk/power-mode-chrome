@@ -1,3 +1,3 @@
 ## POWER MODE FLY
 
-Chorme扩展
+Chrome扩展
